@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"BSavage81"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "World Generator",
+		"description": "Generates Chunks",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "ac650a46-f7f3-49eb-bb16-431a005896f1",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4eed29e8-2019-4263-8d57-caea1637d0a8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
