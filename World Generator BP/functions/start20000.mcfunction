@@ -7,8 +7,8 @@ scoreboard players set @a movementx 0
 scoreboard objectives add movementz dummy movementz
 scoreboard players set @a movementz 0
 scoreboard objectives add blockcountx dummy blockcountx
-scoreboard players set @a blockcountx 10000
+scoreboard players set @a blockcountx 20000
 scoreboard objectives add blockcountz dummy blockcountz
-scoreboard players set @a blockcountz 10000
-execute at @a[scores={loading=0}] run tp @s ~-5000 250 ~-5000
+scoreboard players set @a blockcountz 20000
+execute at @a[scores={loading=0}] run tp @s ~-10000 250 ~-10000
 execute at @a run scoreboard players set @s loading 1
