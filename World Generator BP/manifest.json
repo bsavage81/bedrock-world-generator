@@ -2,7 +2,8 @@
 	"format_version": 2,
 	"metadata": {
 		"authors": [
-			"BSavage81"
+			"BSavage81",
+			"ThatElektrika"
 		],
 		"generated_with": {
 			"bridge": [
@@ -24,8 +25,8 @@
 		"uuid": "ac650a46-f7f3-49eb-bb16-431a005896f1",
 		"version": [
 			1,
-			0,
-			1
+			1,
+			0
 		]
 	},
 	"modules": [
